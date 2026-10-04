@@ -13,7 +13,6 @@
 - 🎓 I'm a **Computer Science & Engineering student**
 - 💻 Focused on **Full-Stack Web Development & MERN Stack**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 📱 Learning **Flutter & Dart** for mobile development
 - 🧠 Currently working on **LLM Hallucination Detection research**
 - 🌱 Currently improving my skills in **React, Node.js, MongoDB, and AI/ML**
 - 🎯 Goal: Become a **Full-Stack Developer & AI/ML Engineer**
@@ -29,8 +28,6 @@
 ### 🤖 AI & Machine Learning
 **Python • Pandas • NumPy • Scikit-learn • TensorFlow**
 
-### 📱 Mobile Development
-**Flutter • Dart**
 
 ---
 
@@ -95,13 +92,6 @@
 
 ---
 
-## 📱 Mobile Development
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-</p>
-
 ---
 
 ## 🔥 Tools & Platforms
@@ -120,7 +110,6 @@
 - 🚀 Building **MERN Stack & Full-Stack applications**
 - 🤖 Exploring **AI & Machine Learning**
 - 🧠 Researching **LLM Hallucination Detection**
-- 📱 Learning **Flutter & Mobile Development**
 - 💡 Improving my **problem-solving and software engineering skills**
 
 ---
