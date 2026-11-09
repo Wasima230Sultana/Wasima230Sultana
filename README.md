@@ -109,15 +109,15 @@ I'm a Computer Science and Engineering student passionate about building respons
 ---
 
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wasima230sultana&show_icons=true&theme=tokyonight&hide_border=true" alt="Wasima's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasima230sultana&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=wasima230sultana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wasima230sultana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=wasima230sultana&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=wasima230sultana&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
