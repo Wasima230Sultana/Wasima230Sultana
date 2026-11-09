@@ -1,22 +1,16 @@
-<h1 align="center">👋 Hi, I'm Wasima Sultana</h1>
+# 👋 Hi, I'm Wasima Sultana
 
-<h3 align="center">💻 CSE Student | Full-Stack Developer | AI/ML Enthusiast</h3>
+### Frontend Developer | CSE Student | AI/ML Enthusiast
 
-<p align="center">
-  <i>Building. Learning. Improving. 🚀</i>
-</p>
+I'm a Computer Science and Engineering student passionate about building responsive, user-friendly web applications. I enjoy working with React, Next.js, and modern web technologies to turn ideas into practical solutions.
 
----
+- 💻 Focused on Frontend Development and the MERN Stack.
+- ⚛️ Building applications with React.js, Next.js, and TypeScript.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🧠 Working on LLM Hallucination Detection research.
+- 🎓 B.Sc. in Computer Science and Engineering at Metropolitan University.
+- 📫 Email: wasimasultana230@gmail.com
 
-## 👩‍💻 About Me
-
-- 🎓 I'm a **Computer Science & Engineering student**
-- 💻 Focused on **Full-Stack Web Development & MERN Stack**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🧠 Currently working on **LLM Hallucination Detection research**
-- 🌱 Currently improving my skills in **React, Node.js, MongoDB, and AI/ML**
-- 🎯 Goal: Become a **Full-Stack Developer & AI/ML Engineer**
-- 📫 Reach me at **wasimasultana230@gmail.com**
 
 ---
 
@@ -114,23 +108,21 @@
 
 ---
 
-## 📊 GitHub Stats
+
+📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasima230sultana&show_icons=true&theme=tokyonight&hide_border=true" alt="Wasima's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wasima230sultana&show_icons=true&theme=tokyonight&hide_border=true" alt="Wasima's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasima230sultana&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wasima230sultana&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Wasima's Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasima230sultana&theme=tokyonight&hide_border=true" alt="Wasima's GitHub Streak"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=wasima230sultana&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 <p align="left">
   <a href="mailto:wasimasultana230@gmail.com">
@@ -139,13 +131,14 @@
   <a href="https://github.com/wasima230sultana">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://zippy-platypus-51055d.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/wasima-sultana">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-silk-chi-nrkaia0p2y.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  ✨ <i>Learning. Building. Growing.</i> ✨
+  <i>Building meaningful projects, learning new technologies, and growing every day. 🚀</i>
 </p>
